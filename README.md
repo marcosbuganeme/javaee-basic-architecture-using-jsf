@@ -1,4 +1,2 @@
-arquitetura-java-modular
+arquitetura básica para java utilizando JSF
 ========================
-
-Arquitetura java modular.
